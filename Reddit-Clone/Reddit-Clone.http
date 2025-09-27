@@ -1,6 +1,0 @@
-@Reddit_Clone_HostAddress = http://localhost:5009
-
-GET {{Reddit_Clone_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
